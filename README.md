@@ -76,7 +76,7 @@ Pour tester le modèle à partir d'un fichier .txt, le format doit être le suiv
 ...<br>
 Un exemple est donné dans le fichier test.txt.
 
-Si le fichier d'évaluation/de test n'est pas spécifié, le modèle propose de générer un dataset synthétique.<br>
+Si le fichier d'évaluation/de test n'est pas spécifié, le modèle propose de générer un dataset synthétique. Les datasets générés sont enregistrés dans le dossier "datasets".<br>
 La partie "évaluation" du notebook affiche les metriques de performance de la classification (accuracy, precision, recall, f1-score, confusion matrix).<br>
 La partie "utilisation" du notebook affiche les prédictions du modèle pour chaque verbatim du fichier de test, ainsi que les raisons du choix du modèle.<br>
 

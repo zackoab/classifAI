@@ -20,6 +20,7 @@ def evaluate_classification_model_on_dataset(
                 predict_class, **model_parameters, verbatim=row.split("//")[0].strip()
             ): row
             for row in val_dataset
+            if row and "//" in row
         }
         for future in tqdm(
             as_completed(future_to_row),
