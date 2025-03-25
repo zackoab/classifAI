@@ -1,0 +1,100 @@
+Le paiement en ligne est-il sécurisé ? // paiement
+Acceptez-vous les paiements via PayPal ? // paiement
+Je préfère payer par carte de crédit. // paiement
+Quels sont les modes de paiement acceptés ? // paiement
+Le prix de ce produit est trop élevé. // prix
+Le paiement en ligne est-il sécurisé ? // paiement
+Le montant total de la facture est-il réglé en une seule fois ? // paiement
+Le tarif a augmenté depuis la dernière fois. // prix
+Le prix de ce produit est trop élevé. // prix
+Acceptez-vous les paiements via PayPal ? // paiement
+Le coût de l'abonnement est-il mensuel ou annuel ? // prix
+Le montant total de la facture est-il réglé en une seule fois ? // paiement
+Quel est le prix pour une quantité en gros ? // prix
+Quels sont les modes de paiement acceptés ? // paiement
+Ce service est-il dans mon budget ? // prix
+Quel est le prix pour une quantité en gros ? // prix
+Le prix est-il négociable ? // prix
+Le montant total de la facture est-il réglé en une seule fois ? // paiement
+Quels sont les modes de paiement acceptés ? // paiement
+Pourriez-vous me donner une estimation du prix ? // prix
+Le prix de ce produit est trop élevé. // prix
+Quels sont les modes de paiement acceptés ? // paiement
+Je trouve que le coût est raisonnable. // prix
+Quels sont les modes de paiement acceptés ? // paiement
+Ce service est-il dans mon budget ? // prix
+Le coût de l'abonnement est-il mensuel ou annuel ? // prix
+Combien coûte cet article en promotion ? // prix
+Puis-je payer en plusieurs fois ? // paiement
+Ce service est-il dans mon budget ? // prix
+Y a-t-il des frais supplémentaires pour le paiement par carte ? // paiement
+Pouvez-vous m'envoyer la facture par email ? // paiement
+Ce service est-il dans mon budget ? // prix
+Acceptez-vous les paiements via PayPal ? // paiement
+Combien coûte cet article en promotion ? // prix
+Le tarif a augmenté depuis la dernière fois. // prix
+Je trouve que le coût est raisonnable. // prix
+Le paiement en ligne est-il sécurisé ? // paiement
+Le tarif a augmenté depuis la dernière fois. // prix
+Quel est le prix pour une quantité en gros ? // prix
+Ce service est-il dans mon budget ? // prix
+Combien coûte cet article en promotion ? // prix
+Je trouve que le coût est raisonnable. // prix
+Le prix de ce produit est trop élevé. // prix
+Puis-je payer en plusieurs fois ? // paiement
+Le prix est-il négociable ? // prix
+Puis-je payer en plusieurs fois ? // paiement
+Y a-t-il des frais supplémentaires pour le paiement par carte ? // paiement
+Je trouve que le coût est raisonnable. // prix
+Le montant total de la facture est-il réglé en une seule fois ? // paiement
+Quels sont les modes de paiement acceptés ? // paiement
+Ce service est-il dans mon budget ? // prix
+Y a-t-il des frais supplémentaires pour le paiement par carte ? // paiement
+Acceptez-vous les paiements via PayPal ? // paiement
+Le montant total de la facture est-il réglé en une seule fois ? // paiement
+Pourriez-vous me donner une estimation du prix ? // prix
+Y a-t-il des frais supplémentaires pour le paiement par carte ? // paiement
+Puis-je payer en plusieurs fois ? // paiement
+Quels sont les modes de paiement acceptés ? // paiement
+Le prix est-il négociable ? // prix
+Acceptez-vous les paiements via PayPal ? // paiement
+Pourriez-vous me donner une estimation du prix ? // prix
+Le paiement en ligne est-il sécurisé ? // paiement
+Le tarif a augmenté depuis la dernière fois. // prix
+Je n'ai pas encore reçu de confirmation de paiement. // paiement
+Puis-je payer en plusieurs fois ? // paiement
+Le prix de ce produit est trop élevé. // prix
+Je trouve que le coût est raisonnable. // prix
+Y a-t-il des frais supplémentaires pour le paiement par carte ? // paiement
+Puis-je payer en plusieurs fois ? // paiement
+Acceptez-vous les paiements via PayPal ? // paiement
+Quand le paiement sera-t-il débité de mon compte ? // paiement
+Y a-t-il des frais supplémentaires pour le paiement par carte ? // paiement
+Ce service est-il dans mon budget ? // prix
+Le coût de l'abonnement est-il mensuel ou annuel ? // prix
+Ce service est-il dans mon budget ? // prix
+Quel est le prix pour une quantité en gros ? // prix
+Pourriez-vous me donner une estimation du prix ? // prix
+Pouvez-vous m'envoyer la facture par email ? // paiement
+Pouvez-vous m'envoyer la facture par email ? // paiement
+Le prix est-il négociable ? // prix
+Acceptez-vous les paiements via PayPal ? // paiement
+Pourriez-vous me donner une estimation du prix ? // prix
+Quels sont les modes de paiement acceptés ? // paiement
+Le coût total inclut-il les frais de livraison ? // prix
+Le paiement en ligne est-il sécurisé ? // paiement
+Quel est le prix pour une quantité en gros ? // prix
+Le tarif a augmenté depuis la dernière fois. // prix
+Y a-t-il des frais supplémentaires pour le paiement par carte ? // paiement
+Le prix de ce produit est trop élevé. // prix
+Le prix de ce produit est trop élevé. // prix
+Quels sont les modes de paiement acceptés ? // paiement
+Je préfère payer par carte de crédit. // paiement
+Je préfère payer par carte de crédit. // paiement
+Le paiement en ligne est-il sécurisé ? // paiement
+Pourriez-vous me donner une estimation du prix ? // prix
+Y a-t-il des frais supplémentaires pour le paiement par carte ? // paiement
+Pourriez-vous me donner une estimation du prix ? // prix
+Je n'ai pas encore reçu de confirmation de paiement. // paiement
+Le coût de l'abonnement est-il mensuel ou annuel ? // prix
+Le prix est-il négociable ? // prix

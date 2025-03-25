@@ -52,3 +52,34 @@ Votre solution sera évaluée selon les critères suivants:
 - Développez des méthodes originales pour l'auto-évaluation du système
 - Privilégiez la simplicité d'utilisation sans sacrifier les performances
 - Exploitez les capacités génératives des modèles d'IA pour compenser l'absence de dataset
+
+
+---------------------------------------
+
+### Utilisation
+
+Pour utiliser ce projet, il suffit de lancer le fichier notebook.ipynb et de suivre les informations demandées.
+Les modèles de LLM intégrés sont gpt-4o et gpt-4o-mini.<br>
+Les packages à installer sont indiqués dans le fichier requirements.txt.
+
+Pour évaluer le modèle à partir d'un fichier .txt, le format doit être le suivant :<br>
+<br>
+[verbatim 1] // [label 1]<br>
+[verbatim 2] // [label 2]<br>
+...<br>
+Un exemple est donné dans le fichier validation.txt.<br>
+
+Pour tester le modèle à partir d'un fichier .txt, le format doit être le suivant :
+
+[verbatim 1]<br>
+[verbatim 2]<br>
+...<br>
+Un exemple est donné dans le fichier test.txt.
+
+Si le fichier d'évaluation/de test n'est pas spécifié, le modèle propose de générer un dataset synthétique.<br>
+La partie "évaluation" du notebook affiche les metriques de performance de la classification (accuracy, precision, recall, f1-score, confusion matrix).<br>
+La partie "utilisation" du notebook affiche les prédictions du modèle pour chaque verbatim du fichier de test, ainsi que les raisons du choix du modèle.<br>
+
+Cette version du projet est assez basique. Propositions d'amélioration :
+- intégrer d'autres modèles de LLM
+- ajouter des fonctions de validation des datasets d'évaluation/test générés
